@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentennialFlowersJson", "CentennialFlowersJson\CentennialFlowersJson.csproj", "{AFED5DF9-0963-4607-B137-26AD31C20187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFED5DF9-0963-4607-B137-26AD31C20187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFED5DF9-0963-4607-B137-26AD31C20187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFED5DF9-0963-4607-B137-26AD31C20187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFED5DF9-0963-4607-B137-26AD31C20187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED5A2B42-2EB9-48B0-9398-FE548345FC36}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+H:\Programming 2\Exercises\Week01\Q1\bin\Debug\Q1.exe.config
+H:\Programming 2\Exercises\Week01\Q1\bin\Debug\Q1.exe
+H:\Programming 2\Exercises\Week01\Q1\bin\Debug\Q1.pdb
+H:\Programming 2\Exercises\Week01\Q1\obj\Debug\Q1.csprojAssemblyReference.cache
+H:\Programming 2\Exercises\Week01\Q1\obj\Debug\Q1.exe
+H:\Programming 2\Exercises\Week01\Q1\obj\Debug\Q1.pdb

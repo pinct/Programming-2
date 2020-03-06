@@ -1,0 +1,9 @@
+H:\Programming 2\Exercises\Week07\PassengerSystemSolution\PassengerSystem\bin\Debug\PassengerSystem.exe.config
+H:\Programming 2\Exercises\Week07\PassengerSystemSolution\PassengerSystem\bin\Debug\PassengerSystem.exe
+H:\Programming 2\Exercises\Week07\PassengerSystemSolution\PassengerSystem\bin\Debug\PassengerSystem.pdb
+H:\Programming 2\Exercises\Week07\PassengerSystemSolution\PassengerSystem\obj\Debug\PassengerSystem.csprojAssemblyReference.cache
+H:\Programming 2\Exercises\Week07\PassengerSystemSolution\PassengerSystem\obj\Debug\PassengerSystem.exe
+H:\Programming 2\Exercises\Week07\PassengerSystemSolution\PassengerSystem\obj\Debug\PassengerSystem.pdb
+H:\Programming 2\Exercises\Week07\PassengerSystemSolution\PassengerSystem\bin\Debug\Newtonsoft.Json.dll
+H:\Programming 2\Exercises\Week07\PassengerSystemSolution\PassengerSystem\bin\Debug\Newtonsoft.Json.xml
+H:\Programming 2\Exercises\Week07\PassengerSystemSolution\PassengerSystem\obj\Debug\PassengerSystem.csproj.CopyComplete

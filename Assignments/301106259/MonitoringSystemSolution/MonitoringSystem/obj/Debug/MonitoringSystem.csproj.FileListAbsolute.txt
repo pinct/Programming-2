@@ -1,0 +1,9 @@
+H:\Programming 2\Assignments\301106259\MonitoringSystemSolution\MonitoringSystem\bin\Debug\MonitoringSystem.exe.config
+H:\Programming 2\Assignments\301106259\MonitoringSystemSolution\MonitoringSystem\bin\Debug\MonitoringSystem.exe
+H:\Programming 2\Assignments\301106259\MonitoringSystemSolution\MonitoringSystem\bin\Debug\MonitoringSystem.pdb
+H:\Programming 2\Assignments\301106259\MonitoringSystemSolution\MonitoringSystem\bin\Debug\Newtonsoft.Json.dll
+H:\Programming 2\Assignments\301106259\MonitoringSystemSolution\MonitoringSystem\bin\Debug\Newtonsoft.Json.xml
+H:\Programming 2\Assignments\301106259\MonitoringSystemSolution\MonitoringSystem\obj\Debug\MonitoringSystem.csprojAssemblyReference.cache
+H:\Programming 2\Assignments\301106259\MonitoringSystemSolution\MonitoringSystem\obj\Debug\MonitoringSystem.csproj.CopyComplete
+H:\Programming 2\Assignments\301106259\MonitoringSystemSolution\MonitoringSystem\obj\Debug\MonitoringSystem.exe
+H:\Programming 2\Assignments\301106259\MonitoringSystemSolution\MonitoringSystem\obj\Debug\MonitoringSystem.pdb

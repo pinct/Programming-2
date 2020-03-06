@@ -1,0 +1,11 @@
+H:\Programming 2\Exercises\Week06\ShapesDemo\ShapesDemo\bin\Debug\netcoreapp3.0\ShapesDemo.exe
+H:\Programming 2\Exercises\Week06\ShapesDemo\ShapesDemo\bin\Debug\netcoreapp3.0\ShapesDemo.deps.json
+H:\Programming 2\Exercises\Week06\ShapesDemo\ShapesDemo\bin\Debug\netcoreapp3.0\ShapesDemo.runtimeconfig.json
+H:\Programming 2\Exercises\Week06\ShapesDemo\ShapesDemo\bin\Debug\netcoreapp3.0\ShapesDemo.runtimeconfig.dev.json
+H:\Programming 2\Exercises\Week06\ShapesDemo\ShapesDemo\bin\Debug\netcoreapp3.0\ShapesDemo.dll
+H:\Programming 2\Exercises\Week06\ShapesDemo\ShapesDemo\bin\Debug\netcoreapp3.0\ShapesDemo.pdb
+H:\Programming 2\Exercises\Week06\ShapesDemo\ShapesDemo\obj\Debug\netcoreapp3.0\ShapesDemo.csprojAssemblyReference.cache
+H:\Programming 2\Exercises\Week06\ShapesDemo\ShapesDemo\obj\Debug\netcoreapp3.0\ShapesDemo.AssemblyInfoInputs.cache
+H:\Programming 2\Exercises\Week06\ShapesDemo\ShapesDemo\obj\Debug\netcoreapp3.0\ShapesDemo.AssemblyInfo.cs
+H:\Programming 2\Exercises\Week06\ShapesDemo\ShapesDemo\obj\Debug\netcoreapp3.0\ShapesDemo.dll
+H:\Programming 2\Exercises\Week06\ShapesDemo\ShapesDemo\obj\Debug\netcoreapp3.0\ShapesDemo.pdb

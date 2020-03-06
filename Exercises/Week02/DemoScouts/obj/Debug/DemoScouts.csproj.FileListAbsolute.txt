@@ -1,0 +1,6 @@
+H:\Programming 2\Exercises\Week02\DemoScouts\bin\Debug\DemoScouts.exe.config
+H:\Programming 2\Exercises\Week02\DemoScouts\bin\Debug\DemoScouts.exe
+H:\Programming 2\Exercises\Week02\DemoScouts\bin\Debug\DemoScouts.pdb
+H:\Programming 2\Exercises\Week02\DemoScouts\obj\Debug\DemoScouts.csprojAssemblyReference.cache
+H:\Programming 2\Exercises\Week02\DemoScouts\obj\Debug\DemoScouts.exe
+H:\Programming 2\Exercises\Week02\DemoScouts\obj\Debug\DemoScouts.pdb

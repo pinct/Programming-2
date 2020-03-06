@@ -1,0 +1,13 @@
+H:\Programming 2\Exercises\Week05\CentennialFlowersJson\CentennialFlowersJson\bin\Debug\netcoreapp3.0\CentennialFlowersJson.exe
+H:\Programming 2\Exercises\Week05\CentennialFlowersJson\CentennialFlowersJson\obj\Debug\netcoreapp3.0\CentennialFlowersJson.csprojAssemblyReference.cache
+H:\Programming 2\Exercises\Week05\CentennialFlowersJson\CentennialFlowersJson\obj\Debug\netcoreapp3.0\CentennialFlowersJson.AssemblyInfoInputs.cache
+H:\Programming 2\Exercises\Week05\CentennialFlowersJson\CentennialFlowersJson\obj\Debug\netcoreapp3.0\CentennialFlowersJson.AssemblyInfo.cs
+H:\Programming 2\Exercises\Week05\CentennialFlowersJson\CentennialFlowersJson\bin\Debug\netcoreapp3.0\CentennialFlowersJson.deps.json
+H:\Programming 2\Exercises\Week05\CentennialFlowersJson\CentennialFlowersJson\bin\Debug\netcoreapp3.0\CentennialFlowersJson.runtimeconfig.json
+H:\Programming 2\Exercises\Week05\CentennialFlowersJson\CentennialFlowersJson\bin\Debug\netcoreapp3.0\CentennialFlowersJson.runtimeconfig.dev.json
+H:\Programming 2\Exercises\Week05\CentennialFlowersJson\CentennialFlowersJson\bin\Debug\netcoreapp3.0\CentennialFlowersJson.dll
+H:\Programming 2\Exercises\Week05\CentennialFlowersJson\CentennialFlowersJson\bin\Debug\netcoreapp3.0\CentennialFlowersJson.pdb
+H:\Programming 2\Exercises\Week05\CentennialFlowersJson\CentennialFlowersJson\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+H:\Programming 2\Exercises\Week05\CentennialFlowersJson\CentennialFlowersJson\obj\Debug\netcoreapp3.0\CentennialFlowersJson.csproj.CopyComplete
+H:\Programming 2\Exercises\Week05\CentennialFlowersJson\CentennialFlowersJson\obj\Debug\netcoreapp3.0\CentennialFlowersJson.dll
+H:\Programming 2\Exercises\Week05\CentennialFlowersJson\CentennialFlowersJson\obj\Debug\netcoreapp3.0\CentennialFlowersJson.pdb

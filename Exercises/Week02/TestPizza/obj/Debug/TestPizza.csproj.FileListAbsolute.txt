@@ -1,0 +1,6 @@
+H:\Programming 2\Exercises\Week02\TestPizza\bin\Debug\TestPizza.exe.config
+H:\Programming 2\Exercises\Week02\TestPizza\bin\Debug\TestPizza.exe
+H:\Programming 2\Exercises\Week02\TestPizza\bin\Debug\TestPizza.pdb
+H:\Programming 2\Exercises\Week02\TestPizza\obj\Debug\TestPizza.csprojAssemblyReference.cache
+H:\Programming 2\Exercises\Week02\TestPizza\obj\Debug\TestPizza.exe
+H:\Programming 2\Exercises\Week02\TestPizza\obj\Debug\TestPizza.pdb

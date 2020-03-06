@@ -1,0 +1,5 @@
+H:\Programming 2\Exercises\Week02\DisplayHousePlants\bin\Debug\DisplayHousePlants.exe.config
+H:\Programming 2\Exercises\Week02\DisplayHousePlants\bin\Debug\DisplayHousePlants.exe
+H:\Programming 2\Exercises\Week02\DisplayHousePlants\bin\Debug\DisplayHousePlants.pdb
+H:\Programming 2\Exercises\Week02\DisplayHousePlants\obj\Debug\DisplayHousePlants.exe
+H:\Programming 2\Exercises\Week02\DisplayHousePlants\obj\Debug\DisplayHousePlants.pdb

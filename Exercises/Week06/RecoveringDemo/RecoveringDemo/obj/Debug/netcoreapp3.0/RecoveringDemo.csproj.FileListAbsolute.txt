@@ -1,0 +1,11 @@
+H:\Programming 2\Exercises\Week06\RecoveringDemo\RecoveringDemo\bin\Debug\netcoreapp3.0\RecoveringDemo.exe
+H:\Programming 2\Exercises\Week06\RecoveringDemo\RecoveringDemo\bin\Debug\netcoreapp3.0\RecoveringDemo.deps.json
+H:\Programming 2\Exercises\Week06\RecoveringDemo\RecoveringDemo\bin\Debug\netcoreapp3.0\RecoveringDemo.runtimeconfig.json
+H:\Programming 2\Exercises\Week06\RecoveringDemo\RecoveringDemo\bin\Debug\netcoreapp3.0\RecoveringDemo.runtimeconfig.dev.json
+H:\Programming 2\Exercises\Week06\RecoveringDemo\RecoveringDemo\bin\Debug\netcoreapp3.0\RecoveringDemo.dll
+H:\Programming 2\Exercises\Week06\RecoveringDemo\RecoveringDemo\bin\Debug\netcoreapp3.0\RecoveringDemo.pdb
+H:\Programming 2\Exercises\Week06\RecoveringDemo\RecoveringDemo\obj\Debug\netcoreapp3.0\RecoveringDemo.csprojAssemblyReference.cache
+H:\Programming 2\Exercises\Week06\RecoveringDemo\RecoveringDemo\obj\Debug\netcoreapp3.0\RecoveringDemo.AssemblyInfoInputs.cache
+H:\Programming 2\Exercises\Week06\RecoveringDemo\RecoveringDemo\obj\Debug\netcoreapp3.0\RecoveringDemo.AssemblyInfo.cs
+H:\Programming 2\Exercises\Week06\RecoveringDemo\RecoveringDemo\obj\Debug\netcoreapp3.0\RecoveringDemo.dll
+H:\Programming 2\Exercises\Week06\RecoveringDemo\RecoveringDemo\obj\Debug\netcoreapp3.0\RecoveringDemo.pdb

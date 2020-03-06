@@ -1,0 +1,11 @@
+H:\Programming 2\Exercises\Week05\PhotoDemo\PhotoDemo\bin\Debug\netcoreapp3.0\PhotoDemo.exe
+H:\Programming 2\Exercises\Week05\PhotoDemo\PhotoDemo\bin\Debug\netcoreapp3.0\PhotoDemo.deps.json
+H:\Programming 2\Exercises\Week05\PhotoDemo\PhotoDemo\bin\Debug\netcoreapp3.0\PhotoDemo.runtimeconfig.json
+H:\Programming 2\Exercises\Week05\PhotoDemo\PhotoDemo\bin\Debug\netcoreapp3.0\PhotoDemo.runtimeconfig.dev.json
+H:\Programming 2\Exercises\Week05\PhotoDemo\PhotoDemo\bin\Debug\netcoreapp3.0\PhotoDemo.dll
+H:\Programming 2\Exercises\Week05\PhotoDemo\PhotoDemo\bin\Debug\netcoreapp3.0\PhotoDemo.pdb
+H:\Programming 2\Exercises\Week05\PhotoDemo\PhotoDemo\obj\Debug\netcoreapp3.0\PhotoDemo.csprojAssemblyReference.cache
+H:\Programming 2\Exercises\Week05\PhotoDemo\PhotoDemo\obj\Debug\netcoreapp3.0\PhotoDemo.AssemblyInfoInputs.cache
+H:\Programming 2\Exercises\Week05\PhotoDemo\PhotoDemo\obj\Debug\netcoreapp3.0\PhotoDemo.AssemblyInfo.cs
+H:\Programming 2\Exercises\Week05\PhotoDemo\PhotoDemo\obj\Debug\netcoreapp3.0\PhotoDemo.dll
+H:\Programming 2\Exercises\Week05\PhotoDemo\PhotoDemo\obj\Debug\netcoreapp3.0\PhotoDemo.pdb

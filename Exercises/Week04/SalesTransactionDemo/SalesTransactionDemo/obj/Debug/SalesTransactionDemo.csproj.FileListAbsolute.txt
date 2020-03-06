@@ -1,0 +1,6 @@
+H:\Programming 2\Exercises\Week04\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\SalesTransactionDemo.exe.config
+H:\Programming 2\Exercises\Week04\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\SalesTransactionDemo.exe
+H:\Programming 2\Exercises\Week04\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\SalesTransactionDemo.pdb
+H:\Programming 2\Exercises\Week04\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\SalesTransactionDemo.csprojAssemblyReference.cache
+H:\Programming 2\Exercises\Week04\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\SalesTransactionDemo.exe
+H:\Programming 2\Exercises\Week04\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\SalesTransactionDemo.pdb

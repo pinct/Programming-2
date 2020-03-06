@@ -1,0 +1,12 @@
+C:\Users\aderson\source\repos\CentennialFlowersText\CentennialFlowersText\bin\Debug\CentennialFlowersText.exe.config
+C:\Users\aderson\source\repos\CentennialFlowersText\CentennialFlowersText\bin\Debug\CentennialFlowersText.exe
+C:\Users\aderson\source\repos\CentennialFlowersText\CentennialFlowersText\bin\Debug\CentennialFlowersText.pdb
+C:\Users\aderson\source\repos\CentennialFlowersText\CentennialFlowersText\obj\Debug\CentennialFlowersText.csprojAssemblyReference.cache
+C:\Users\aderson\source\repos\CentennialFlowersText\CentennialFlowersText\obj\Debug\CentennialFlowersText.exe
+C:\Users\aderson\source\repos\CentennialFlowersText\CentennialFlowersText\obj\Debug\CentennialFlowersText.pdb
+H:\Programming 2\Exercises\Week04\CentennialFlowersText\CentennialFlowersText\obj\Debug\CentennialFlowersText.csprojAssemblyReference.cache
+H:\Programming 2\Exercises\Week04\CentennialFlowersText\CentennialFlowersText\obj\Debug\CentennialFlowersText.exe
+H:\Programming 2\Exercises\Week04\CentennialFlowersText\CentennialFlowersText\obj\Debug\CentennialFlowersText.pdb
+H:\Programming 2\Exercises\Week04\CentennialFlowersText\CentennialFlowersText\bin\Debug\CentennialFlowersText.exe.config
+H:\Programming 2\Exercises\Week04\CentennialFlowersText\CentennialFlowersText\bin\Debug\CentennialFlowersText.exe
+H:\Programming 2\Exercises\Week04\CentennialFlowersText\CentennialFlowersText\bin\Debug\CentennialFlowersText.pdb

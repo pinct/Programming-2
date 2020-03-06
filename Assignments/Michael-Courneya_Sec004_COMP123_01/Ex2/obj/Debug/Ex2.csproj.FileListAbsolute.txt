@@ -1,0 +1,5 @@
+H:\Programming 2\Assignments\Michael-Courneya_Sec004_COMP123_01\Ex2\bin\Debug\Ex2.exe.config
+H:\Programming 2\Assignments\Michael-Courneya_Sec004_COMP123_01\Ex2\bin\Debug\Ex2.exe
+H:\Programming 2\Assignments\Michael-Courneya_Sec004_COMP123_01\Ex2\bin\Debug\Ex2.pdb
+H:\Programming 2\Assignments\Michael-Courneya_Sec004_COMP123_01\Ex2\obj\Debug\Ex2.exe
+H:\Programming 2\Assignments\Michael-Courneya_Sec004_COMP123_01\Ex2\obj\Debug\Ex2.pdb

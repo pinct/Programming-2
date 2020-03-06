@@ -1,0 +1,6 @@
+H:\Programming 2\Exercises\Week05\Loans\Loans\bin\Debug\Loans.exe.config
+H:\Programming 2\Exercises\Week05\Loans\Loans\bin\Debug\Loans.exe
+H:\Programming 2\Exercises\Week05\Loans\Loans\bin\Debug\Loans.pdb
+H:\Programming 2\Exercises\Week05\Loans\Loans\obj\Debug\Loans.csprojAssemblyReference.cache
+H:\Programming 2\Exercises\Week05\Loans\Loans\obj\Debug\Loans.exe
+H:\Programming 2\Exercises\Week05\Loans\Loans\obj\Debug\Loans.pdb

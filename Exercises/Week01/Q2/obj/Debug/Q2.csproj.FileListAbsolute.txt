@@ -1,0 +1,5 @@
+H:\Programming 2\Exercises\Week01\Q2\bin\Debug\Q2.exe.config
+H:\Programming 2\Exercises\Week01\Q2\bin\Debug\Q2.exe
+H:\Programming 2\Exercises\Week01\Q2\bin\Debug\Q2.pdb
+H:\Programming 2\Exercises\Week01\Q2\obj\Debug\Q2.exe
+H:\Programming 2\Exercises\Week01\Q2\obj\Debug\Q2.pdb

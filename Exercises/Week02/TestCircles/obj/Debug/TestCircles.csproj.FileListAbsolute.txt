@@ -1,0 +1,6 @@
+H:\Programming 2\Exercises\Week02\TestCircles\bin\Debug\TestCircles.exe.config
+H:\Programming 2\Exercises\Week02\TestCircles\bin\Debug\TestCircles.exe
+H:\Programming 2\Exercises\Week02\TestCircles\bin\Debug\TestCircles.pdb
+H:\Programming 2\Exercises\Week02\TestCircles\obj\Debug\TestCircles.csprojAssemblyReference.cache
+H:\Programming 2\Exercises\Week02\TestCircles\obj\Debug\TestCircles.exe
+H:\Programming 2\Exercises\Week02\TestCircles\obj\Debug\TestCircles.pdb

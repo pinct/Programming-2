@@ -1,0 +1,6 @@
+H:\Programming 2\Assignments\sec004-5_COMP123_02\EmployeeTest\bin\Debug\EmployeeTest.exe.config
+H:\Programming 2\Assignments\sec004-5_COMP123_02\EmployeeTest\bin\Debug\EmployeeTest.exe
+H:\Programming 2\Assignments\sec004-5_COMP123_02\EmployeeTest\bin\Debug\EmployeeTest.pdb
+H:\Programming 2\Assignments\sec004-5_COMP123_02\EmployeeTest\obj\Debug\EmployeeTest.csprojAssemblyReference.cache
+H:\Programming 2\Assignments\sec004-5_COMP123_02\EmployeeTest\obj\Debug\EmployeeTest.exe
+H:\Programming 2\Assignments\sec004-5_COMP123_02\EmployeeTest\obj\Debug\EmployeeTest.pdb
